@@ -1,0 +1,43 @@
+{
+  "name": "vku-study-room-booking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "canvas-confetti": "^1.9.3",
+    "expo": "~51.0.38",
+    "expo-constants": "~16.0.2",
+    "expo-device": "~6.0.2",
+    "expo-notifications": "~0.28.19",
+    "expo-status-bar": "~1.12.1",
+    "lucide-react": "^0.468.0",
+    "lucide-react-native": "^0.468.0",
+    "qrcode.react": "^4.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-qrcode-svg": "^6.3.12",
+    "react-native-svg": "15.2.0",
+    "react-native-web": "~0.19.10",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/react": "~18.2.45",
+    "@types/react-dom": "~18.2.18",
+    "@vitejs/plugin-react": "^4.3.3",
+    "babel-preset-expo": "~11.0.15",
+    "typescript": "~5.3.3",
+    "vite": "^5.4.11"
+  },
+  "private": true
+}

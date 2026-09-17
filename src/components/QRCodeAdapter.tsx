@@ -1,0 +1,2 @@
+export * from './QRCodeAdapter.web';
+
