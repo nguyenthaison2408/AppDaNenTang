@@ -2,8 +2,8 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  // GitHub Pages serves the repo at /AppDaNenTang/
-  base: '/AppDaNenTang/',
+  // GitHub Pages serves the repo at /RealtimeStudyRoomBookingApp/
+  base: '/RealtimeStudyRoomBookingApp/',
   plugins: [react()],
   resolve: {
     alias: {
