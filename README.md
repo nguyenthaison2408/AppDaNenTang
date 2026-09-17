@@ -3,6 +3,10 @@
 
 ![VKU Study Room Banner](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&auto=format&fit=crop&q=80)
 
+### 🔗 Links
+- **🚀 Live Demo (GitHub Pages):** [https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/](https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/)
+- **💻 GitHub Repository:** [https://github.com/nguyenthaison2408/RealtimeStudyRoomBookingApp](https://github.com/nguyenthaison2408/RealtimeStudyRoomBookingApp)
+
 ---
 
 ## 📖 1. Giới thiệu Dự án & Vấn đề giải quyết
@@ -66,6 +70,13 @@ npx expo start
 npm run dev
 # Mở trình duyệt tại: http://localhost:3000
 ```
+
+### 🚀 Bản Web Live (GitHub Pages)
+Ứng dụng được tự động build bằng Vite và triển khai lên GitHub Pages qua workflow `.github/workflows/deploy.yml` mỗi khi push lên nhánh `main`:
+
+**👉 [https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/](https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/)**
+
+> Lưu ý: Trong **Settings → Pages** của repo, mục **Build and deployment → Source** cần được đặt thành **GitHub Actions** để workflow deploy hoạt động.
 
 ---
 

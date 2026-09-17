@@ -9,8 +9,8 @@
 ## 1. GENERAL INFORMATION & DELIVERABLE LINKS
 * **Team Members:**
   1. Nguyễn Thái Sơn — Student ID: 22ITxxx — Role: Fullstack Architecture & Mobile Development — Contribution: 100%
-* **🔗 Live Demo URL:** [http://localhost:3000](http://localhost:3000) *(Build production `dist/` ready for Cloudflare Pages / Vercel deployment; Expo Metro Bundler available via `npx expo start`)*
-* **💻 GitHub Repository:** [https://github.com/nguyenthaison2408/AppDaNenTang](https://github.com/nguyenthaison2408/AppDaNenTang)
+* **🔗 Live Demo URL (GitHub Pages):** [https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/](https://nguyenthaison2408.github.io/RealtimeStudyRoomBookingApp/) *(Web build deployed automatically via GitHub Actions; local dev via `npm run dev` at http://localhost:3000 or `npx expo start` for Expo Go)*
+* **💻 GitHub Repository:** [https://github.com/nguyenthaison2408/RealtimeStudyRoomBookingApp](https://github.com/nguyenthaison2408/RealtimeStudyRoomBookingApp)
 * **🎥 Video Demo (Optional):** [https://youtu.be/vku-study-room-demo](https://youtu.be/vku-study-room-demo) *(Demoing reservation flow, real-time conflict locking, QR pass check-in, and local notifications)*
 
 ---
